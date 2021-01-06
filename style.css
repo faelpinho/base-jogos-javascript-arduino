@@ -1,0 +1,23 @@
+/* style.css */
+
+body {
+    background-color: darkslategray;
+}
+
+img {
+    display: none;
+}
+
+#screen, #display {
+    margin: 20px;
+    border: 1px solid rgb(62, 62, 62);
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    width: 300px;
+    /*
+    */
+}
+
+
+/* EOF */
